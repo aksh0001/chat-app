@@ -1,0 +1,25 @@
+{
+  "name": "chat-app-2",
+  "version": "1.0.0",
+  "description": "A simple chat application (v2) built using express and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aksh0001/chat-app.git"
+  },
+  "author": "a.k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aksh0001/chat-app/issues"
+  },
+  "homepage": "https://github.com/aksh0001/chat-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
